@@ -4,8 +4,8 @@ using System.Text;
 
 namespace OOPIntro
 {
-    class Product
+    class WinterJacket : Jacket
     {
-        public string _productName;
+        public string _modelName = "WinterJacket";
     }
 }

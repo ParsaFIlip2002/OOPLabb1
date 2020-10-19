@@ -4,11 +4,9 @@ using System.Text;
 
 namespace OOPIntro
 {
-    class Customer
+    class SummerJacket : Jacket
     {
-        public List<Jacket>_cart = new List<Jacket>();
-        
-    }
-        
+        public string modelName = "SummerJacket";
 
+    }
 }
